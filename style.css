@@ -1,8 +1,9 @@
-body, html{
+body{
     margin: 0;
     padding: 0;
     width: 100%;
-    height: 100%;
+    height: 100vh;
+    overflow: hidden;
 }
 
 .main{
@@ -12,7 +13,6 @@ body, html{
 }
 
 .toright{
-    float: right;
     top: 7.5;
     left: 1440;
 }
@@ -34,7 +34,7 @@ body, html{
 
 .row{
     background-image: url(img/day.png);
-    height: 100%;
+    height: 95vh;
     -webkit-transition: all 0.5s ease-out;
     -moz-transition: all 0.5s ease-out;
     -ms-transition: all 0.5s ease-out;
