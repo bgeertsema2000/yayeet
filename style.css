@@ -14,7 +14,7 @@ body{
 
 .toright{
     top: 7.5;
-    left: 1440;
+    left: 1350;
 }
 
 .title{
@@ -24,12 +24,14 @@ body{
     width: 600px;
     font-family: 'Open Sans', sans-serif;
     font-size: 60px;
+    text-align: center;
 }
 
 .text{
     margin: 2.5% auto;
     font-family: 'Roboto', sans-serif;
     width: 600px;
+    text-align: center;
 }
 
 .row{
