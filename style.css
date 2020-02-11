@@ -15,7 +15,6 @@ body, html{
     width: 70%;
     height: 100%;
     float: left;
-    color: black;
 }
 
 .right{
@@ -25,9 +24,9 @@ body, html{
 }
 
 .title{
-    font-size: xx-large;
     margin: 0 auto;
     margin-top: 15%;
     height: 50px;
     width: 600px;
+    font-family: 'Source Sans Pro', sans-serif;
 }
